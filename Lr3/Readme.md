@@ -27,12 +27,23 @@
 
 # Генерация данных "Две луны"
 
-![Генерация данных](Lr3/images/Generated data (two moons).png)
+![Сгенерированные данные (две луны)](Lr3/images/Generated_data_(two_moons).png)
 
 # Определение архитекутры и обучение сети
 
-![Обучение сети](Lr3/images/Defining the architecture and training the network.png)
+![Обучение сети](Lr3/images/Defining_the_architecture_and_training_the_network.png)
 
+# Визуализация функции потерь
+
+![Функция потерь во время обучения](Lr3/images/Loss_function_during_training.png)
+
+# Визуализации границы решений
+
+![Граница решений нейронной сети](Lr3/images/Neural_network_decision_boudary.png)
+
+# Оценка точности (Accuracy)
+
+![Accuracy](Lr3/images/Accuracy.png)
 
 ## Выводы
 
